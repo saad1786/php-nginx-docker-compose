@@ -1,3 +1,0 @@
-# OUTPUT ------------->>>>
- 
-  ![Screenshot](calculator.gif)
