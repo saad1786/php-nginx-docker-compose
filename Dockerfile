@@ -1,4 +1,2 @@
-FROM nginx:latest   
-#COPY ./default /etc/nginx/sites-enabled/
+FROM nginx:latest
 COPY ./default.conf /etc/nginx/conf.d/default.conf
-#COPY ./age-calculator /var/www/html/
